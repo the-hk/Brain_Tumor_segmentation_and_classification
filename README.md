@@ -1,4 +1,4 @@
 # back_forward_cross
 
 In this project, We were dealing with the brain tumor segmentation and classification for details 
-open the article   ===>   https://www.researchgate.net/publication/352198284_Brain_Tumor_Segmentation_and_Classification
+open the technical report   ===>   https://www.researchgate.net/publication/352198284_Brain_Tumor_Segmentation_and_Classification
